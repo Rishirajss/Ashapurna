@@ -1,0 +1,1 @@
+export let baseUrl = 'https://apiservices.ashapurna.com/api/web/';
